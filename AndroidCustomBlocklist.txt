@@ -1,0 +1,26 @@
+0.0.0.0 ads.facebook.com
+0.0.0.0 advertising-api.eu.amazon.com
+0.0.0.0 advertising.twitter.com
+0.0.0.0 advice-ads.s3.amazonaws.com
+0.0.0.0 bluehost.com
+0.0.0.0 cdn.ampproject.org
+0.0.0.0 cws.connectedpdf.com
+0.0.0.0 ec2-18-203-174-165.eu-west-1.compute.amazonaws.com
+0.0.0.0 ec2-52-30-25-175.eu-west-1.compute.amazonaws.com
+0.0.0.0 ec2-54-194-221-159.eu-west-1.compute.amazonaws.com
+0.0.0.0 firebaseinstallations.googleapis.com
+0.0.0.0 firebaselogging-pa.goggleapis.com
+0.0.0.0 firefox-android-home-recommendations.getpocket.com
+0.0.0.0 firestore.googleapis.com
+0.0.0.0 footprints.googleapis.com
+0.0.0.0 graph.facebook.com
+0.0.0.0 growth-pa.googleapis.com
+0.0.0.0 location.services.mozilla.com
+0.0.0.0 pi.tgclab.com
+0.0.0.0 picf.tgclab.com
+0.0.0.0 playtoms-pa.googleapis.com
+0.0.0.0 safebrowsing.googleapis.com
+0.0.0.0 sentry.io
+0.0.0.0 suggestqueries.google.com
+0.0.0.0 versioncheck.addons.mozilla.org
+
