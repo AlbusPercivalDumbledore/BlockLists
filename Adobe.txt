@@ -59,6 +59,7 @@
 0.0.0.0 hlrcv.stage.adobe.com
 0.0.0.0 hl2rcv.adobe.com
 0.0.0.0 hl2rcv.adobe.de
+0.0.0.0 ims-na1.adobelogin.com
 0.0.0.0 ims-na1-prprod.adobelogin.com
 0.0.0.0 lm.licenses.adobe.com
 0.0.0.0 lmlicenses.wip4.adobe.com
